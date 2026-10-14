@@ -1,7 +1,12 @@
 [
     {
-        "subject": "note organizer",
-        "title": "4",
-        "content": "5"
+        "title": "Python programming",
+        "subject": "python",
+        "content": "Python is a high-level programming language known for its simple syntax and readability. It supports variables, loops, functions, lists, and dictionaries. Python is widely used in web development, automation, data science, and artificial intelligence."
+    },
+    {
+        "title": "INTRODUCTION OF DATA STRUCTURE",
+        "subject": "DSA",
+        "content": "Data structures are ways of organizing and storing data efficiently. Common structures include arrays, linked lists, stacks, queues, trees and graphs\nChoosing the right data structure helps improve program performance"
     }
 ]
