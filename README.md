@@ -35,3 +35,6 @@ Notes Organizer is a simple Python desktop application that helps students creat
 
 ## Author
 Student Project — Notes Organizer
+## Application Screenshot
+
+![Notes Organizer GUI](screenshot.png)
