@@ -35,3 +35,8 @@ This project was developed to help students organize their academic notes effici
 
 ## Author
 Student Project — Notes Organizer
+
+
+## Live Website
+
+[Open Notes Organizer](https://yashnarwal1909-lgtm-notes-organizer-app-lpdhm0.streamlit.app/)
