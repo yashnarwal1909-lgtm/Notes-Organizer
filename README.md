@@ -1,51 +1,37 @@
-
 # Notes Organizer
 
 ## About the Project
-Notes Organizer is a simple Python desktop application that helps students create, organize, search, edit, and delete their study notes.
+Notes Organizer is a simple web-based application designed to help students manage their study notes in one place. It helps users organize notes by subject and quickly find saved information.
 
 ## Features
-- Add new study notes
-- View saved notes
-- Edit existing notes
-- Delete unwanted notes
+- Add and manage study notes
 - Organize notes by subject
-- Search notes by title, subject, or content
-- Save notes locally in a JSON file
-- User-friendly graphical interface
-- Dark and light mode (if enabled in the application)
+- Search for saved notes
+- Simple and user-friendly interface
+- Access the application through a web browser
 
 ## Technologies Used
-- Python 3
-- Tkinter
-- JSON
-- Git
-- GitHub
+- Python
+- Streamlit
+- Git and GitHub
 
-## How to Run
-1. Install Python 3.
-2. Clone or download this repository.
-3. Open the project folder in VS Code.
-4. Open the terminal in the project folder.
-5. Run the following command:
+## Installation and Setup
+1. Clone or download this repository.
+2. Open the project folder in VS Code.
+3. Install the required dependencies:
 
    ```bash
-   python gui.py
+   pip install -r requirements.txt
    ```
 
-## Project Files
-- `gui.py` — graphical user interface
-- `main.py` — command-line version of the application
-- `notes.json` — locally stored notes
-- `.gitignore` — files and folders Git should ignore
-- `screenshot.png` — application screenshot
+4. Run the application:
 
-## Application Screenshot
+   ```bash
+   streamlit run app.py
+   ```
 
-![Notes Organizer GUI](screenshot.png)
-
-## Data Storage
-The application stores notes locally in `notes.json`. This allows saved notes to remain available when the application is reopened.
+## Project Purpose
+This project was developed to help students organize their academic notes efficiently and practice web application development.
 
 ## Author
 Student Project — Notes Organizer
