@@ -2,11 +2,36 @@
     {
         "title": "Python programming",
         "subject": "python",
-        "content": "Python is a high-level programming language known for its simple syntax and readability. It supports variables, loops, functions, lists, and dictionaries. Python is widely used in web development, automation, data science, and artificial intelligence."
+        "content": "Python is a high-level programming language known for its simple syntax and readability. It supports variables, loops, functions, lists, and dictionaries. Python is widely used in web development, automation, data science, and artificial intelligence.",
+        "created_at": "2026-10-27T21:02:56",
+        "updated_at": "2026-10-27T21:02:56"
     },
     {
         "title": "INTRODUCTION OF DATA STRUCTURE",
         "subject": "DSA",
-        "content": "Data structures are ways of organizing and storing data efficiently. Common structures include arrays, linked lists, stacks, queues, trees and graphs\nChoosing the right data structure helps improve program performance"
+        "content": "Data structures are ways of organizing and storing data efficiently. Common structures include arrays, linked lists, stacks, queues, trees and graphs\nChoosing the right data structure helps improve program performance",
+        "created_at": "2026-10-27T21:02:56",
+        "updated_at": "2026-10-27T21:02:56"
+    },
+    {
+        "title": "DBMS Basics",
+        "subject": "DBMS",
+        "content": "DBMS is used to store, manage, and retrieve data efficiently.",
+        "created_at": "2026-10-27T21:02:56",
+        "updated_at": "2026-10-27T21:08:11"
+    },
+    {
+        "title": "DBMS Basics",
+        "subject": "DBMS",
+        "content": "DBMS is used to store, manage, and retrieve data efficiently.",
+        "created_at": "2026-10-27T21:11:13",
+        "updated_at": "2026-10-27T21:11:13"
+    },
+    {
+        "title": "DBMS Test",
+        "subject": "DBMS",
+        "content": "Database Management System stores and organizes data.",
+        "created_at": "2026-10-27T21:11:42",
+        "updated_at": "2026-10-27T21:11:42"
     }
 ]
